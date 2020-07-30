@@ -2,8 +2,12 @@
 
 Ecommerce application using Angular
 
-P.S. Work in progress
+## Note
 
-Previous commits have been removed.
+Work in progress
 
-New commits will updated on release.
+Previous commits have been removed and new commits will updated on release.
+
+## Author
+
+* [Soutrik Neogi](https://github.com/soutrikneogi)
