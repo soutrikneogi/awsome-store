@@ -1,4 +1,4 @@
-#Awsome Store
+# Awsome Store
 
 Ecommerce application using Angular
 
